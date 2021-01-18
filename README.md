@@ -13,19 +13,19 @@ We signed up for Data.Trek because we wanted to learn something new and cool thi
 
 🌱 I’m currently learning...
 * Aira: Both Python and R.
-* Jamie: 
+* Jamie: Python
 
 💬 Ask me about ...
 * Aira: homelessness in Canadian Society; spirituality
-* Jamie: 
+* Jamie: Anime
 
 😄 Pronouns: ...
 * Aira: She/Her/Elle
-* Jamie: 
+* Jamie: She/Her/Elle
 
 ⚡ Fun fact: ...
 * Aira: I have huge obsession on mangoes (specially the sour kind) 🥭🥭🥭
-* Jamie:
+* Jamie: I like to play instruments and listen to new music!
 
 
 📫 How to reach me:...
