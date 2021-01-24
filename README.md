@@ -9,7 +9,7 @@ We signed up for Data.Trek because we wanted to learn something new and cool thi
 
 ## A little bit about us:
 
-🔭 We are currently working on a [Données QUALO annuelles](https://www.donneesquebec.ca/recherche/dataset/vmtl-rsma-qualite-de-l-eau-en-rive-qualo) (données du programme QUALO, qualité de l’eau en rive du Réseau de suivi du milieu aquatique). We are building a prediction model of water quality based on past data to check if the water conditions of rivers surrounding Montreal are suitable for summer activities such as kayaking, paddling, etc.
+🔭 We are currently working on the dataset [Données QUALO annuelles](https://www.donneesquebec.ca/recherche/dataset/vmtl-rsma-qualite-de-l-eau-en-rive-qualo) (données du programme QUALO, qualité de l’eau en rive du Réseau de suivi du milieu aquatique). We are building a prediction model of water quality based on past data to check if the water conditions of rivers surrounding Montreal are suitable for summer activities such as kayaking, paddling, etc.
 
 🌱 I’m currently learning...
 * Aira: Both Python and R.
